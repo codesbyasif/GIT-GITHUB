@@ -1,4 +1,2 @@
-# AI-Assistant
-AI assistant which will work both online and offline.
-<br>
-Author - Md asif
+Learing Git and Github <br>
+from sratch!
