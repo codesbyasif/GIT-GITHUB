@@ -1,3 +1,2 @@
 Learing Git and Github <br>
-from sratch!
-yoooo nigga!
+from sratch nigga!
